@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 0c102440cc01caa4c823d672b31da454
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3625720945965736857
+    second: sp_boxerTransformationAura_0
+  - first:
+      213: 5521293507800941076
+    second: sp_boxerTransformationAura_1
+  - first:
+      213: -3916233236865588080
+    second: sp_boxerTransformationAura_2
+  - first:
+      213: -6234523852435602369
+    second: sp_boxerTransformationAura_3
+  - first:
+      213: -3474373377856719874
+    second: sp_boxerTransformationAura_4
+  - first:
+      213: -4961834658044187219
+    second: sp_boxerTransformationAura_5
+  - first:
+      213: -6718584624532057958
+    second: sp_boxerTransformationAura_6
+  - first:
+      213: 5103227396206549312
+    second: sp_boxerTransformationAura_7
+  - first:
+      213: 8596240934508326562
+    second: sp_boxerTransformationAura_8
+  - first:
+      213: 4333582372147443555
+    second: sp_boxerTransformationAura_9
+  - first:
+      213: 6727426709134980754
+    second: sp_boxerTransformationAura_10
+  - first:
+      213: 4180895358857428634
+    second: sp_boxerTransformationAura_11
+  - first:
+      213: 6158904152782095170
+    second: sp_boxerTransformationAura_12
+  - first:
+      213: -6893902831890808989
+    second: sp_boxerTransformationAura_13
+  - first:
+      213: -3807071622510938762
+    second: sp_boxerTransformationAura_14
+  - first:
+      213: -8344624742943768464
+    second: sp_boxerTransformationAura_15
+  - first:
+      213: 3455443465145194576
+    second: sp_boxerTransformationAura_16
+  - first:
+      213: -363949669067396726
+    second: sp_boxerTransformationAura_17
+  - first:
+      213: 5708243296147453289
+    second: sp_boxerTransformationAura_18
+  - first:
+      213: 6130796791848582983
+    second: sp_boxerTransformationAura_19
+  - first:
+      213: -1970810903763063510
+    second: sp_boxerTransformationAura_20
+  - first:
+      213: -8072551818687228126
+    second: sp_boxerTransformationAura_21
+  - first:
+      213: -6213364342855267513
+    second: sp_boxerTransformationAura_22
+  - first:
+      213: -2025711887326901009
+    second: sp_boxerTransformationAura_23
+  - first:
+      213: 7528468915107875956
+    second: sp_boxerTransformationAura_24
+  - first:
+      213: -5152033988077146229
+    second: sp_boxerTransformationAura_25
+  - first:
+      213: -6503493520122057352
+    second: sp_boxerTransformationAura_26
+  - first:
+      213: 4519067016381197615
+    second: sp_boxerTransformationAura_27
+  - first:
+      213: -172014512465996484
+    second: sp_boxerTransformationAura_28
+  - first:
+      213: -5793856613163902553
+    second: sp_boxerTransformationAura_29
+  - first:
+      213: 90601385726810737
+    second: sp_boxerTransformationAura_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 800
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cd401720adeadc0800000000000000
+      internalID: -3625720945965736857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 824
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412452931339f9c40800000000000000
+      internalID: 5521293507800941076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_2
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 718
+        width: 98
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0946c03ce9eb6a9c0800000000000000
+      internalID: -3916233236865588080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_3
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 716
+        width: 99
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3440ef86958a79a0800000000000000
+      internalID: -6234523852435602369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_4
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 624
+        width: 300
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3b6c322db88cfc0800000000000000
+      internalID: -3474373377856719874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_5
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 844
+        width: 14
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daded0ddaa5042bb0800000000000000
+      internalID: -4961834658044187219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_6
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 803
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a909d5d61eac2c2a0800000000000000
+      internalID: -6718584624532057958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_7
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 830
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049deee574e42d640800000000000000
+      internalID: 5103227396206549312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_8
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 777
+        width: 93
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae6a09c59bfb4770800000000000000
+      internalID: 8596240934508326562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_9
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 496
+        width: 380
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3673eb8053af32c30800000000000000
+      internalID: 4333582372147443555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_10
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 846
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2963772d2fe9c5d50800000000000000
+      internalID: 6727426709134980754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_11
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 476
+        width: 133
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9eb6c37d26850a30800000000000000
+      internalID: 4180895358857428634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_12
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 498
+        width: 329
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243414812b2d87550800000000000000
+      internalID: 6158904152782095170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_13
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 782
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fb61d56efe350a0800000000000000
+      internalID: -6893902831890808989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 631
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675f3c1b7809a2bc0800000000000000
+      internalID: -3807071622510938762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_15
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 632
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070c6ec0200f13c80800000000000000
+      internalID: -8344624742943768464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_16
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 352
+        width: 324
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0589c69168334ff20800000000000000
+      internalID: 3455443465145194576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_17
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 692
+        width: 15
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89ed1b44bdf2faf0800000000000000
+      internalID: -363949669067396726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_18
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 671
+        width: 22
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965bf56c801c73f40800000000000000
+      internalID: 5708243296147453289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 601
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f3d382337f41550800000000000000
+      internalID: 6130796791848582983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_20
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 595
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d6cb1cce546a4e0800000000000000
+      internalID: -1970810903763063510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 559
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227d63024e888ff80800000000000000
+      internalID: -8072551818687228126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_22
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 376
+        width: 116
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b880ccc02b5c9a0800000000000000
+      internalID: -6213364342855267513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_23
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 579
+        width: 39
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec089a65c933e3e0800000000000000
+      internalID: -2025711887326901009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_24
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 620
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c439b379e7a7860800000000000000
+      internalID: 7528468915107875956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_25
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 601
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f2ced626c4088b0800000000000000
+      internalID: -5152033988077146229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_26
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 368
+        width: 174
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87de116b913feb5a0800000000000000
+      internalID: -6503493520122057352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_27
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 489
+        width: 67
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2de5932283f6be30800000000000000
+      internalID: 4519067016381197615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_28
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 74
+        width: 212
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35904856b1ec9df0800000000000000
+      internalID: -172014512465996484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_29
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 84
+        width: 226
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a951d48b16189fa0800000000000000
+      internalID: -5793856613163902553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boxerTransformationAura_30
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 84
+        width: 337
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a9764fa71e14100800000000000000
+      internalID: 90601385726810737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_boxerTransformationAura_0: -3625720945965736857
+      sp_boxerTransformationAura_1: 5521293507800941076
+      sp_boxerTransformationAura_10: 6727426709134980754
+      sp_boxerTransformationAura_11: 4180895358857428634
+      sp_boxerTransformationAura_12: 6158904152782095170
+      sp_boxerTransformationAura_13: -6893902831890808989
+      sp_boxerTransformationAura_14: -3807071622510938762
+      sp_boxerTransformationAura_15: -8344624742943768464
+      sp_boxerTransformationAura_16: 3455443465145194576
+      sp_boxerTransformationAura_17: -363949669067396726
+      sp_boxerTransformationAura_18: 5708243296147453289
+      sp_boxerTransformationAura_19: 6130796791848582983
+      sp_boxerTransformationAura_2: -3916233236865588080
+      sp_boxerTransformationAura_20: -1970810903763063510
+      sp_boxerTransformationAura_21: -8072551818687228126
+      sp_boxerTransformationAura_22: -6213364342855267513
+      sp_boxerTransformationAura_23: -2025711887326901009
+      sp_boxerTransformationAura_24: 7528468915107875956
+      sp_boxerTransformationAura_25: -5152033988077146229
+      sp_boxerTransformationAura_26: -6503493520122057352
+      sp_boxerTransformationAura_27: 4519067016381197615
+      sp_boxerTransformationAura_28: -172014512465996484
+      sp_boxerTransformationAura_29: -5793856613163902553
+      sp_boxerTransformationAura_3: -6234523852435602369
+      sp_boxerTransformationAura_30: 90601385726810737
+      sp_boxerTransformationAura_4: -3474373377856719874
+      sp_boxerTransformationAura_5: -4961834658044187219
+      sp_boxerTransformationAura_6: -6718584624532057958
+      sp_boxerTransformationAura_7: 5103227396206549312
+      sp_boxerTransformationAura_8: 8596240934508326562
+      sp_boxerTransformationAura_9: 4333582372147443555
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
