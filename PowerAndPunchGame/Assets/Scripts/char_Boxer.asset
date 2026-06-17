@@ -14,3 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Character
   char_name: Boxer
   char_icon: {fileID: 4347404810018000179, guid: 1b3ffd91c5b1b18488c57289d6084366, type: 3}
+  life: 100
+  speed: 5
+  physicalStrenght: 1
+  magicalStrenght: 1
